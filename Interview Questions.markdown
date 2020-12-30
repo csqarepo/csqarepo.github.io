@@ -5,4 +5,4 @@
 layout: page
 title: Interview Questions
 ---
-[**SDET Interiew Questions**]({% post_url 2020-12-28-test %})
+[**SDET Interiew Questions**]({% link pages/sdet-questions.markdown %})

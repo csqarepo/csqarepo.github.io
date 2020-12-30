@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "SDET Interview Questions"
 date:   2020-12-28 15:30:08 +0530
 
